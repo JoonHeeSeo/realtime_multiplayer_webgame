@@ -1,37 +1,58 @@
 
-#  FacEcsape
-
-![1](https://github.com/icu222/project/assets/29039922/330f691a-b67c-4c4a-9025-021e3aad4124)
-가볍게 즐기는 멀티 온라인 게임 플랫폼
-<br/>
-
-<br/>
-<br/>
-
-# 기획 의도 
-- 멀리 떨어져 직접 만나기 힘든 친구들과 놀고 싶을 때
-- 서로 다른 취미, 게임을 하여 온라인 상에서도 만나기 힘들 때
-
-이런 사람들을 위한 놀이터
-
-<br/>
-
-<br/>
-<br/>
-
-# 주요 기능
-    - 구글 로그인을 통해 가볍게 회원가입을 할 수 있습니다.
-    - 방을 만들거나, 초대 코드를 입력 받아 대기실에 참가 할 수 있습니다. 대기실에서 화상 화면을 공유합니다.
-    - 여러 명이서 게임을 즐길 수 있습니다.
-    - 게임 시작시, 화상 화면을 머리 위에 띄우고 있는 캐릭터들을 플레이 할 수 있습니다.
-    - 게임 클리어시 랭킹을 기록하여 자신의 순위를 볼 수 있습니다. 
-    - 게임 클리어로부터 얻은 마일리지로 아이콘, 화상 화면을 꾸밀 수 있습니다.
+# FacEcsape
+![main](images/main.png)
 
 
-<br/>
+# Summary
+- Purpose<br>
+친구들과 가볍게 즐기기 좋은 멀티플레이어 플랫포머 게임
 
-<br/>
-<br/>
+- Period<br>
+    2023. 07. 04. ~ 08. 18. (6주)
 
-# 프로젝트 구조
-![www drawio (2)](https://github.com/icu222/Postnanta.github.io/assets/29039922/6a96b33a-d125-4a5c-bc04-e7e75cac0836)
+- Role<br>
+    백엔드 API<br>
+    게임 클라이언트
+
+
+# Info
+- 구글 회원가입 및 로그인
+
+- 방 만들기, 코드를 통해 대기실 초대 및 참여
+
+- 대기실에서 화상 화면을 공유
+
+- 게임에서 캐릭터 위에 화상 화면을 공유
+
+- 게임 랭킹을 통해 순위 확인
+
+- 마일리지로 아이콘, 화면을 꾸미기
+
+
+# ERD
+![ERD](images/ERD.png)
+
+
+# Architecture
+![architecture](images/architecture.png)
+
+
+# Details
+<img src="images/2.png" width="49%" alt="2">
+<img src="images/3.png" width="49%" alt="3">
+<img src="images/4.png" width="49%" alt="4">
+<img src="images/5.png" width="49%" alt="5">
+<img src="images/6.jpg" width="49%" alt="6">
+<img src="images/7.png" width="49%" alt="7">
+
+
+
+
+
+
+
+
+
+
+
+
