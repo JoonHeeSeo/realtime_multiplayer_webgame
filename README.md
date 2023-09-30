@@ -38,12 +38,12 @@
 
 
 # Details
-<img src="images/2.png" width="49%" alt="2">
-<img src="images/3.png" width="49%" alt="3">
-<img src="images/4.png" width="49%" alt="4">
-<img src="images/5.png" width="49%" alt="5">
-<img src="images/6.jpg" width="49%" alt="6">
-<img src="images/7.png" width="49%" alt="7">
+<img src="images/2.png" width="47%" alt="2">
+<img src="images/3.png" width="47%" alt="3">
+<img src="images/4.png" width="47%" alt="4">
+<img src="images/5.png" width="47%" alt="5">
+<img src="images/6.jpg" width="47%" alt="6">
+<img src="images/7.png" width="47%" alt="7">
 
 
 
